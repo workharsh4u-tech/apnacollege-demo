@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Harsh Tiwari
+Author - Harsh Tiwari (Harsh Tiwari)
